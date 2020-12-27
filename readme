@@ -15,3 +15,4 @@ git push -u origin branchname
 
 git clone git_url
 
+git pull origin branchname
