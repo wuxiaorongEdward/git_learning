@@ -1,6 +1,6 @@
 learning Git
 
-debug
+debug  git reflog
 
 git branch dev
 
