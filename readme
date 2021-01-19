@@ -1,6 +1,10 @@
-learning Git
+learning Git   by Edward Wu
 
+<<<<<<< Updated upstream
 debug  git reflog
+=======
+debug XXXXX
+>>>>>>> Stashed changes
 
 git branch dev
 
